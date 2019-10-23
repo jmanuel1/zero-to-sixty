@@ -1,0 +1,3 @@
+cp bin/assets/nginx.conf /etc/nginx/sites-enabled/default
+
+service nginx reload
